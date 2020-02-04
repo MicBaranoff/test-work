@@ -1456,6 +1456,7 @@ footer .bottom .holder .links a:last-child {
   }
   section.works .works-tabs .works-tabs-boxs .works-tabs-box .item .box {
     padding: 15px;
+    transform: none;
   }
   section.works .works-tabs .works-tabs-boxs .works-tabs-box .item .box .name a {
     font-size: 18px;
